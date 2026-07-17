@@ -386,6 +386,7 @@ row_gap = 3
             Agent::Kilo,
             Agent::Qodercli,
             Agent::Maki,
+            Agent::Ocean,
         ];
         let entries = agents
             .iter()
